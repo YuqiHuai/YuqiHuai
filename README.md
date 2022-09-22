@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm Yuqi Huai
+- I'm a doctoral student at the University of California, Irvine
+- I'm interested in Autonomous Vehicle testing
+- You can reach me at 📫 yhuai@uci.edu
+
 <!--
 **YuqiHuai/YuqiHuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
