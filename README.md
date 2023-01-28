@@ -2,7 +2,7 @@
 
 - I'm Yuqi Huai
 - I'm a doctoral student at the University of California, Irvine
-- I'm interested in Autonomous Vehicle testing
+- I'm interested in testing Autonomous Driving Software
 - You can reach me at 📫 yhuai@uci.edu
 
 <!--
