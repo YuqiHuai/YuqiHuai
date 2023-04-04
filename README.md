@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3778FF&width=435&lines=Yuqi+Huai;Student+in+Software+Engineering;%40University+of+California%2C+Irvine;Autonomous+Driving+Software)](https://git.io/typing-svg)
+---
 - I'm Yuqi Huai
 - I'm a doctoral student at the University of California, Irvine
 - I'm interested in testing Autonomous Driving Software
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuqiHuai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
