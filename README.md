@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yuqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuqiHuai&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuqiHuai&layout=compact&count_private=true&custom_title=Yuqi's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuqiHuai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
